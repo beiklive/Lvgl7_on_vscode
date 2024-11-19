@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "./"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cstdio": "cpp",
+			"cstdarg": "cpp",
+			"lv_examples.h": "c",
+			"monitor.h": "c"
+		},
+		"search.exclude": {
+			"**/.*": true,
+			"build": true
+		},
+		"search.useIgnoreFiles": false
+	}
+}
